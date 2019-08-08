@@ -1,7 +1,7 @@
 {
     "AboutSession":[
         {
-            "LinkName":"GDG Jalandhar",
+            "LinkName":"GDG Campobasso",
             "Link":"/"
         },
         {
@@ -14,17 +14,17 @@
         },
         {
             "LinkName":"Become a Member",
-            "Link":"https://www.meetup.com/GDG-Jalandhar/"
+            "Link":"https://www.meetup.com/GDG-Campobasso/"
         }
     ],
     "ChapterResourcesSession":[
         {
             "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:f.steno@gmail.com"
         },
         {
             "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:f.steno@gmail.com"
         },
         {
             "LinkName" : "Media Kit",

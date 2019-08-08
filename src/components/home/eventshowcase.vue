@@ -17,11 +17,11 @@
 
         <v-layout wrap align-center justify-center row fill-height class="my-3 " >
            <v-flex xs12 md9 lg9 class="pa-2 text-xs-center">
-               <p class="google-font" style="font-size:170%">Our Events & Meetups</p>
+               <p class="google-font" style="font-size:170%">I Nostri Eventi & Meetups</p>
                <p class="google-font" style="font-size:120%">
-                   At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.
+                   Nelle sessioni che spaziano dal tecnico al visionario, celebriamo e scopriamo cosa possono creare le tecnologie: in che modo l'innovazione, l'open source, ML e l'Intelligenza Artificiale possono spingere le imprese in avanti e risolvere i grandi problemi che incidono su tutti noi.
                </p>
-               <router-link to="/events" flat color="#4C4A78" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78">See More</router-link>             
+               <router-link to="/events" flat color="#4C4A78" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78">Per saperne di più</router-link>             
             </v-flex> 
         </v-layout>
 
@@ -80,14 +80,14 @@
                    
                      <v-card-actions class="mt-0">
                         <v-spacer></v-spacer>
-                        <v-btn flat color="#4C4A78" :href="item.link" target="_blank" class="mb-0 ml-0 mt-0 google-font" style="border-radius:7px;text-transform: capitalize;">See More</v-btn> 
+                        <v-btn flat color="#4C4A78" :href="item.link" target="_blank" class="mb-0 ml-0 mt-0 google-font" style="border-radius:7px;text-transform: capitalize;">Vai</v-btn> 
                     </v-card-actions>
                     
                 </v-card>
             </v-flex>
 
             <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
-                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Events Not Found!</p>
+                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Nessun Evento Trovato</p>
             </v-flex>
         </v-layout>
 

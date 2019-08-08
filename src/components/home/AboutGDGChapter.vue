@@ -10,7 +10,7 @@
                &nbsp;
                <v-btn :href="chapterDetails.socialLinks[0].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Facebook Page</v-btn>
                 <br><br>
-               <router-link to="/about" class="google-font" style="text-decoration:none;color:white">See More about {{chapterDetails.ChapterName}}</router-link>
+               <router-link to="/about" class="google-font" style="text-decoration:none;color:white">Per sapere qualcosa in più sul {{chapterDetails.ChapterName}}</router-link>
             </v-flex> 
            
         </v-layout>

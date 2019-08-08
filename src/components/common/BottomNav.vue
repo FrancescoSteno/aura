@@ -26,7 +26,7 @@
         router
         to="/events"
       >
-        <span>Events</span>
+        <span>Eventi</span>
         <v-icon>rounded_corner</v-icon>
       </v-btn>
 

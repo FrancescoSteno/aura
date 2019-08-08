@@ -3,38 +3,38 @@
         <v-layout wrap align-start justify-start row fill-height class="my-0" >
      
             <v-flex xs12 md8 lg8 class="pa-2 my-0">
-                <p class="google-font" style="font-size:180%;color:#0277bd">Anti-Harassment Policy</p>
+                <p class="google-font" style="font-size:180%;color:#0277bd">Politica Anti Molestie</p>
 
                 <p class="google-font" style="font-size:110%">
-                    <b style="font-size:120%;color: #2E2E2E;">Why do we have an official Anti-Harassment policy for {{chapterDetails.ChapterName}} events?</b>
+                    <b style="font-size:120%;color: #2E2E2E;">Perché abbiamo una politica anti-molestie ufficiale per gli eventi del  {{chapterDetails.ChapterName}}?</b>
 
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">It sets expectations for behavior at the event. Simply having an anti-harassment policy can prevent harassment.</li>
-                        <li class="google-font">It encourages people to attend who have had bad experiences at other events</li>
-                        <li class="google-font">It gives event staff/volunteers instructions on how to handle harassment quickly, with minimum amount of disruption for the event.</li>
+                        <li class="google-font">Stabilisce le aspettative di comportamento durante l'evento. Semplicemente avere una politica anti-molestie può prevenire le molestie.</li>
+                        <li class="google-font">Incoraggia le persone  che hanno avuto brutte esperienze in altri eventi a partecipare.</li>
+                        <li class="google-font">Fornisce al personale dell'evento e ai volontari direttive su come gestire rapidamente le molestie, con una quantità minima di interruzione per l'evento.</li>
                     </ul>
                 </p>
 
                 <p class="google-font" style="font-size:110%">
-                    <b style="font-size:120%;color: #2E2E2E;">{{chapterDetails.ChapterName}} is dedicated to providing a harassment-free event experience for everyone, regardless of: </b>
+                    <b style="font-size:120%;color: #2E2E2E;">{{chapterDetails.ChapterName}} si prefige di fornire un'esperienza di eventi senza molestie per tutti, indipendentemente da: </b>
 
                     <ul class="mt-2" style="font-size:110%">
-                        <li class="google-font">Gender</li>
-                        <li class="google-font">Sexual Orientation</li>
-                        <li class="google-font">Disability</li>
-                        <li class="google-font">Gender Identity</li>
-                        <li class="google-font">Age</li>
-                        <li class="google-font">Race</li>
-                        <li class="google-font">Religion</li>
-                        <li class="google-font">Nationality</li>
+                        <li class="google-font">Sesso</li>
+                        <li class="google-font">Orientamento Sessuale</li>
+                        <li class="google-font">Invalidità o Handicap</li>
+                        <li class="google-font">Identità Sessuali</li>
+                        <li class="google-font">Anni</li>
+                        <li class="google-font">Razza</li>
+                        <li class="google-font">Religione</li>
+                        <li class="google-font">Nazionalità</li>
                     </ul>
 
-                    <span class="google-font" style="font-size:110%">The above is not an exhaustive list -- we do not tolerate harassment of event spanarticipants in any form. </span>
+                    <span class="google-font" style="font-size:110%">Quanto sopra non è un elenco esaustivo: non tolleriamo molestie nei confronti dei partecipanti in qualsiasi forma.</span>
                 </p>
 
-                <p class="google-font" style="font-size:120%">Sexual language and imagery is not appropriate for any event venue, including talks. Event participants violating these rules may be expelled from the event, and event banned from future events at the discretion of the event organizers/management. </p>
+                <p class="google-font" style="font-size:120%">Il linguaggio e le immagini sessuali non sono appropriati per nessuna sede di eventi, compresi i discorsi. I partecipanti all'evento che violano queste regole possono essere espulsi dall'evento e l'evento può essere bandito da eventi futuri a discrezione degli organizzatori e gestori dell'evento.</p>
 
-                <p class="google-font" style="font-size:110%">Harassment includes (but is not limited to):
+                <p class="google-font" style="font-size:110%">Le molestie includono (ma non si limitano a):
                     <ul class="mt-2" style="font-size:110%">
                         <li class="google-font">Offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion</li>
                         <li class="google-font">The use or display of sexual images in public spaces</li>

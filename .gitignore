@@ -21,3 +21,8 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+package-lock.json
+.firebase/hosting.ZGlzdA.cache
+.firebase/hosting.cHVibGlj.cache
+src/config/key.js
+
