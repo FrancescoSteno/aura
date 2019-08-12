@@ -7,7 +7,7 @@
     <v-container fluid style="border-color:#e0e0e0;border-width: 1px;border-style: solid;border-bottom: 0">
       <v-layout wrap align-center justify-center row fill-height class="my-0 py-0">
         <v-flex xs12 md10 sm10 lg10 class="py-0 my-0">
-          <p class="google-font" style="font-size:130%" >Follow Us:
+          <p class="google-font" style="font-size:130%" >Seguici Su: 
             <span v-for="(item,i) in ChapterDetails.socialLinks" :key="i">
               <v-tooltip top>
                   <v-btn flat icon :href="item.link" target="_blank" slot="activator">
@@ -32,7 +32,7 @@
             </v-flex>
 
             <v-flex xs12 md3 sm4 lg3 class="py-2">
-              <p class="google-font mb-0" style="font-size: 140%;font-weight: 300;"><b>Resources</b></p>  
+              <p class="google-font mb-0" style="font-size: 140%;font-weight: 300;"><b>Risorse</b></p>  
               <div v-for="(item,i) in FooterData.ChapterResourcesSession" :key="i" class="mt-1">
                 <a :href="item.Link" class="google-font" target="_blank" style="color: #3E4551;text-decoration: none;font-size:110%">{{item.LinkName}}</a><br>
               </div>

@@ -14,16 +14,6 @@
             "icon" : "fab fa-facebook"
         },
         {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
-            "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
-            "icon" : "fab fa-twitter"
-        },
-        {
             "name" : "Meetup",
             "link" : "https://www.meetup.com/GDG-Campobasso/",
             "icon" : "fab fa-meetup"

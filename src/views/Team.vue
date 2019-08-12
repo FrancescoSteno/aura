@@ -4,10 +4,14 @@
     <v-container fluid class="mt-3 mb-0">
       <v-layout wrap align-center justify-center row fill-height class="my-0">
         <v-flex xs12 md10 class="my-0">
-            <p class="google-font mb-0" style="font-size:200%;color:#616161">Our lineup of big thinkers and even bigger doers</p>
-            <p class="google-font mt-0 mb-0" style="font-size:110%">Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about. </p>
+            <p class="google-font mb-0" style="font-size:200%;color:#616161">La nostra gamma di grandi pensatori ed anche più grandi</p>
+            <p class="google-font mt-0 mb-0" style="font-size:110%">Google è conosciuto in tutto il mondo. Ognuno è 'googling', controlla su 'mappe' e 
+              comunica in 'gmail'. Per gli utenti semplici, sono servizi che funzionano, ma non per noi. 
+              Gli sviluppatori vedono molto di più: API, problemi di scalabilità, stack tecnologici complessi. E questo è GDG.</p>
 
-            <p class="google-font mt-3 mb-0" style="font-size:110%">Our goal is to organize space to connect the best industry experts with Indian audience to boost development of IT. And Our Core Team is: </p>
+            <p class="google-font mt-3 mb-0" style="font-size:110%">Il nostro obiettivo è organizzare lo spazio per collegare i migliori esperti del 
+              settore con il pubblico italiano per favorire lo sviluppo dell'IT. <br>          
+              E il nostro core team è composto da: </p>
 
         </v-flex>
       </v-layout>
