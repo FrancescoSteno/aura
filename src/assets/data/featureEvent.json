@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"IWD'19 Campobasso",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"Flutter Day: From zero to Hero",
+    "EventImage":"flutter_day.png",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"07",
+        "Month":"09",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"10:00 AM",
+        "EndTime":"18:00 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-    "FBEventPageURL":"s"
+    "EventVenue":"Scuola D'Impresa (strada del decathlon) Via S. Lorenzo, 164, Campobasso",
+    "EventVenueMapLink":"https://goo.gl/maps/gv6Tz4AzWyn5A6mw9",
+    "EventWebsite":"https://www.gdgcampobasso.it/events/",
+    "EventDescription":"E' arrivato il Flutter Day! Un intero giorno dedicato a questo fantastico framework! A breve saranno disponibili i dettagli sull'evento e le istruzioni per effettuare l'iscrizione... la partecipazione è GRATUITA ma il biglietto è OBBLIGATORIO, non dimenticarti di prenotare il tuo posto!",
+    "MeetupLink":"https://www.meetup.com/it-IT/GDG-Campobasso/events/263643350/",
+    "RegistrationLink":"https://www.meetup.com/it-IT/GDG-Campobasso/events/263643350/",
+    "FBEventPageURL":"https://www.facebook.com/gdgcampobasso/?__tn__=kC-R&eid=ARDymZ_I2qFvCyciSUsYatUA6pef9i4iqeP3oXtYK7sFaNdDBLV0Ic-1uUEoY5QijqvEFAR-hcNNkNo8&hc_ref=ARSLmwPNMxfuez64ZCDs8m_j72J15Bf5feO40ZnqZ75SNfKPylLUGR1tnuBkcOvncqE&fref=nf&__xts__[0]=68.ARAojIBEwlU_MS7f3fUpSxYh5W_N00z8Zfm7AtyFLzypAW_NX9GbBrY1k4_LsZKy52ypAQVYkT_G9QTqW4uPCkB2HznqDeuDfcgUlrMn9b3AZQImcXYZ_0Af5fbwNvuojH87f86RrmtQUr7OByv1IoCs4Veq1-ru43inN_obhJwoBjGoB7jh9MHT5lavI7H40UC3k0BAYEbz8rvih8EPEgeMtdHTVMRU9VD_CSou7fxu4CSY2F_9NxXp7X_7jiMMSjdeKgNbXfviqrsO41INk6xV-WyMtKQ3JKbmh5v1RSWwf6QY8C1k-ODrKdeJmJVCDGp4fAhKkKojmfTFu5DQ-Xw"
 }
 
