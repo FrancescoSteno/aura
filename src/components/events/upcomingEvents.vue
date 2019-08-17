@@ -23,7 +23,7 @@
                    che li utilizzano come parte dei loro progetti. <br>
                    Se sei uno sviluppatore di applicazioni Mobile, se vorresti diventarlo o semplicemente se ti incuriosice l'idea di creare applicazioni
                    mobile "cross platform" (app sviluppate per poter girare sia su sistemi iOS che Android) non perdere l'occasione di seguire l'evento
-                   che si terrà sabato 7 settembre, l'evento è gratuito. A questo <a href="gdgcampobasso.it/flutter_day.pdf">link</a> puoi scaricare la locandina dell'evento
+                   che si terrà sabato 7 settembre, l'evento è gratuito. A questo <a href="flutter_day.pdf">link</a> puoi scaricare la locandina dell'evento
                    <br>Non mancare, ti aspettiamo
                     
                </p>     
