@@ -20,7 +20,12 @@
                <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Prossimi Eventi</p>
                <p class="google-font mt-0 mb-0" style="font-size:120%">
                    Gli eventi che organizziamo sono aperti a neofiti, sviluppatori, manager e organizzazioni interessati alle tecnologie di Google o 
-                   che li utilizzano come parte dei loro progetti.
+                   che li utilizzano come parte dei loro progetti. <br>
+                   Se sei uno sviluppatore di applicazioni Mobile, se vorresti diventarlo o semplicemente se ti incuriosice l'idea di creare applicazioni
+                   mobile "cross platform" (app sviluppate per poter girare sia su sistemi iOS che Android) non perdere l'occasione di seguire l'evento
+                   che si terrà sabato 7 settembre, l'evento è gratuito. A questo <a href="gdgcampobasso.it/flutter_day.pdf">link</a> puoi scaricare la locandina dell'evento
+                   <br>Non mancare, ti aspettiamo
+                    
                </p>     
             </v-flex> 
         </v-layout>
