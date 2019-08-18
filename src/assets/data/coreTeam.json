@@ -6,23 +6,23 @@
         "linkedin":"https://www.linkedin.com/in/francesco-steno-37257328",
         "github":"https://github.com/FrancescoSteno",
         "profileImage":"",
-        "website":""
+        "website":"http://www.steno.ninja"
     },
     {
         "name":"Nicola Guglielmi",
         "designation":"Innovation Manager Team Lead",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "twitter":"https://twitter.com/#",
+        "linkedin":"https://www.linkedin.com/in/nicola-guglielmi",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
         "name":"Marianna Fratianni",
         "designation":"Sofware Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     },
@@ -30,17 +30,17 @@
         "name":"Francesco Mignogna",
         "designation":"Fullstack Developer",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://www.linkedin.com/in/francesco-mignogna-70116a84/",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
         "name":"Francesco Restaino",
         "designation":"System Administrator and Network Specialist",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/speedlnx/",
+        "github":"",
         "profileImage":"",
         "website":""
     },
@@ -48,27 +48,27 @@
         "name":"Nicola Del Gobbo",
         "designation":"Front End Developer and SEO Specialist",
         "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://www.linkedin.com/in/ndelgobbo/",
+        "github":"https://github.com/NickNaso",
         "profileImage":"",
         "website":""
     },
     {
         "name":"Dora Ruggiero",
-        "designation":"Front End Developer and SEO Specialist",
+        "designation":"Web Developer Full-Stack and SEO Specialist",
         "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "linkedin":"https://www.linkedin.com/in/doraruggiero/",
+        "github":"https://github.com/doraruggiero",
         "profileImage":"",
-        "website":""
+        "website":"https://www.doraruggiero.it"
     },
     
     {
         "name":"Mauro Doganieri",
-        "designation":"Front End Developer and SEO Specialist",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "designation":"Software Developer and Database Administrator",
+        "twitter":"https://twitter.com/maurodoganieri",
+        "linkedin":"https://www.linkedin.com/in/maurodoganieri/",
+        "github":"https://github.com/mauro-d",
         "profileImage":"",
         "website":""
     }
