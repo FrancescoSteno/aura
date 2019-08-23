@@ -93,7 +93,7 @@
             </v-flex>
 
             <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
-                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Upcoming Events Not Found!</p>
+                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Problemi con il collegamento con Meetup ...</p>
             </v-flex>
         </v-layout>
 
@@ -165,7 +165,7 @@
             </v-flex>
 
             <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
-                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Upcoming Events Not Found!</p>
+                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Ci sono problemi tecnici durante il collegamento con Meetup</p>
             </v-flex>
 
         </v-layout>

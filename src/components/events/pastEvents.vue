@@ -21,7 +21,7 @@
                <p class="google-font mt-0 mb-0" style="font-size:110%;color:#616161 ">
                    Gli eventi sono elencati in ordine cronologico inverso per data.
                </p>     
-               <p class="google-font" style="font-size:110%;color:#616161 ">Ecco i recenti 10 incontri. Per saperne di più sui Meetup passati <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">Click here</a></p>
+               <p class="google-font" style="font-size:110%;color:#616161 ">Ecco i recenti 10 incontri. Per saperne di più sui Meetup passati <a :href="chapterDetails.ChapterMeetupLink" target="_blank" style="text-decoration:none;color:#0277bd">Clicca qui</a></p>
 
             </v-flex> 
         </v-layout>
@@ -93,7 +93,7 @@
             </v-flex>
 
             <v-flex xs12 v-if="notFoundPastEventFlag==true">
-                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Past Events Not Found!</p>
+                <p class="google-font px-2" style="font-size:140%"><v-icon >highlight_off</v-icon> Problemi con il collegamento con Meetup... Non riusciamo a caricare gli evnenti</p>
             </v-flex>
 
             
