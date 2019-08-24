@@ -25,6 +25,8 @@
                    mobile "cross platform" (app sviluppate per poter girare sia su sistemi iOS che Android) non perdere l'occasione di seguire l'evento
                    che si terrà sabato 7 settembre, l'evento è gratuito. A questo <a href="flutter_day.pdf">link</a> puoi scaricare la locandina dell'evento
                    <br>Non mancare, ti aspettiamo
+
+
                     
                </p>     
             </v-flex> 
